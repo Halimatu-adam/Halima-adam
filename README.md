@@ -1,6 +1,8 @@
-#SOCIAL BUZZ 
+# Social buzz project  
 
 ## Requirements gathering
+
+Downloading Datasets.
 
 
 ## Data cleaning Using Excel 
