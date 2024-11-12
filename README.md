@@ -1,11 +1,20 @@
 # Social buzz project  
 
+## Projet overview 
+
+## Data sources 
+
+Accenture 
+
+## Tools 
+-Excel
+
 ## Requirements gathering
 
 Downloading Datasets.
 
 
-## Data cleaning Using Excel 
+## Data cleaning 
 
 removing rows that have values which are missing.
 
@@ -13,7 +22,7 @@ changing the data type of some values within a column.
 
 removing columns which are not relevant.
 
-## Data modelling using excel 
+## Data modelling 
 
  Merging tables using "VLOOKUP".
 
@@ -25,7 +34,7 @@ removing columns which are not relevant.
 
  Top 5 categories 
  
-## Data Analysis 
+## Exploratory data Analysis 
 
 -How many unique categories are there?
 
@@ -40,7 +49,8 @@ removing columns which are not relevant.
 
 -Pie charts (showing popularity shares)
 
-## Summary 
+## Results and Findings.
+
 
 
 
