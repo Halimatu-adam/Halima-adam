@@ -1,4 +1,4 @@
-#
+#SOCIAL BUZZ 
 
 ## Requirements gathering
 
@@ -38,10 +38,8 @@ removing columns which are not relevant.
 
 -Pie charts (showing popularity shares)
 
-## Recommendations 
+## Summary 
 
-
-## Limitation 
 
 
 
